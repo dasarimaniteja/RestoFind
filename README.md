@@ -112,7 +112,7 @@ This project currently does not specify a license.
 
 ## Author
 
-[Dileep Kumar Rambarki](https://github.com/dasarimaniteja)
+[dasari mani teja](https://github.com/dasarimaniteja)
 
 ---
 
